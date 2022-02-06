@@ -1,0 +1,10 @@
+[
+    {
+        "id":1,
+        "type":"New Patient"
+    },
+    {
+        "id":2,
+        "type":"Follow Up"
+    }
+]
